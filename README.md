@@ -1,6 +1,6 @@
 # Gastos-Deputados-SP
 
-Gastos dos deputados de São Paulo do PT no ano de 2019 e mês de Janeiro e Fevereiro
+Gastos dos deputados do PT do estado de São Paulo no ano de 2019 e mês de Janeiro e Fevereiro
 
 Dados retirados de :
 
